@@ -1,3 +1,4 @@
+# Jason is amazing
 import sys
 dna = sys.argv[1]
 dna_dict = {'A':0, 'C':0, 'G':0, 'T':0}
