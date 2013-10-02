@@ -6,4 +6,4 @@ print x.base_count("A")
 print x.gc_content()
 print x.revcomp()
 
-
+# this a comment
